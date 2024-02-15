@@ -2,7 +2,7 @@
 - 👀 I’m interested in user tool Applications and OS Development
 - 🌱 I’m currently learning OpenGL + GLSL in C++
 - 😄 Pronouns: She/Her
-- 🗓️ Planned Project: Assembly Bootloder, HTTP-Server in C, Setup a robust dev environment
+- 🗓️ Planned Project: Assembly Bootloader, HTTP-Server in C
 
 
 
