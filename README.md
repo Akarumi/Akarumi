@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Akarumi
 - 👀 I’m interested in user tool Applications, OS and Game Development
-- 😄 Pronouns: She/Her
 - 🌱 Current Projects: SDDM-Theme, OpenGL Engine in C++
 - 🗓️ Planned Project: Assembly Bootloader for a Raspberry Pi 
 
