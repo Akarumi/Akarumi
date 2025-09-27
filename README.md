@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Akarumi
-- 👀 I’m interested in user tool Applications, OS and Game Development
-- 🌱 Current Projects: 
-- 🗓️ Planned Project: Assembly Bootloader for a Raspberry Pi, ESP32 GBA Emulator
-- ⏱️ Projects on hold: SDDM-Theme, OpenGL Engine in C++, GRUB2 Bootloader Theme
+
+Nothing really happens here for a while 
 
 
 <!---
